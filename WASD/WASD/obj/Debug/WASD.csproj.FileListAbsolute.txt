@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\WASD\WASD\bin\Debug\WASD.exe.config
+C:\Users\admin\source\repos\WASD\WASD\bin\Debug\WASD.exe
+C:\Users\admin\source\repos\WASD\WASD\bin\Debug\WASD.pdb
+C:\Users\admin\source\repos\WASD\WASD\obj\Debug\WASD.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WASD\WASD\obj\Debug\WASD.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WASD\WASD\obj\Debug\WASD.exe
+C:\Users\admin\source\repos\WASD\WASD\obj\Debug\WASD.pdb
